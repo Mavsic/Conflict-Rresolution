@@ -1,4 +1,5 @@
 # Conflict-Rresolution
+<<<<<<< HEAD
 
 ## This is a heading 
 
